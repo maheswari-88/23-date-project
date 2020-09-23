@@ -1,0 +1,6 @@
+public void main
+{
+
+	set data1
+	get data1
+}
